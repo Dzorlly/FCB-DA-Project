@@ -14,10 +14,19 @@ Incubator Nigeria is dedicated to equipping individuals with the skills needed t
 This repository is dedicated to collating and analyzing feedback to evaluate how well the training program meets participants' expectations. By collecting and analyzing this data, we aim to continually improve the quality of our training and provide the best possible learning experience.
 
 ## Objectives
-**Collect Data:** Gather feedback from participants on their expectations before and their experiences after the training sessions.
-**Analyze Feedback:** Compare expectations versus realities to identify gaps and areas for improvement.
-**Report Findings:** Create detailed reports highlighting key insights and actionable recommendations.
+**1. Collect Data:** Gather feedback from participants on their expectations before and their experiences after the training sessions.
+
+**2. Analyze Feedback:** Compare expectations versus realities to identify gaps and areas for improvement.
+
+**3. Report Findings:** Create detailed reports highlighting key insights and actionable recommendations.
 
 ## Tools Used
 
--Ms Excel for Data Cleaning [_Download here_](https://microsoft.com)
+- Ms Excel for Data Cleaning [_Download here_](https://microsoft.com)
+- PowerBi for visualization.
+
+  Google Query Sheet
+  
+  ```
+  SELECT * 
+
