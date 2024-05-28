@@ -25,6 +25,8 @@ This repository is dedicated to collating and analyzing feedback to evaluate how
 - Ms Excel for Data Cleaning [_Download here_](https://microsoft.com)
 - PowerBi for visualization.
 
+
+
   Google Query Sheet
   
   ```
