@@ -25,11 +25,16 @@ This repository is dedicated to collating and analyzing feedback to evaluate how
 - Ms Excel for Data Cleaning [_Download here_](https://microsoft.com)
 - PowerBi for visualization.
 
-
+| Gender  | Age | Height |
+| ------- | ----- | -------- |
+| Male  | 27  | 5'3 |
+| Female | 29 | 5'6 |
 
   Google Query Sheet
   
   ```
-  SELECT * 
+  SELECT * FROM GENDER
+WHERE 
+```
 
 ![](ccc-logo-icon.png)
