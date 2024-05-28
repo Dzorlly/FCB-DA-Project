@@ -32,3 +32,4 @@ This repository is dedicated to collating and analyzing feedback to evaluate how
   ```
   SELECT * 
 
+![](ccc-logo-icon.png)
